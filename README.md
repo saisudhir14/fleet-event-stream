@@ -1,6 +1,6 @@
 # Fleet Event Stream
 
-GPS vehicle event processing microservice with Prometheus metrics and Kubernetes deployment.
+Production-ready Go microservice for processing GPS vehicle events at scale with Prometheus metrics and Kubernetes deployment.
 
 ## Quick Start
 
