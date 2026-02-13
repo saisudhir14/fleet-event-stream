@@ -46,7 +46,7 @@ docker run -p 8080:8080 -p 9090:9090 fleet-event-stream
 kubectl apply -f deployments/k8s/
 ```
 
-## Configuration
+## Configurations
 
 | Variable | Default | Description |
 |----------|---------|-------------|
